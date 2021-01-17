@@ -29,6 +29,7 @@ Jupyter NoteBook/Kaggle Notebook, A Diamond Price Dataset(I have considered the 
 
 ## Setup :
 Install all the required modules with pip installer:
+Here you need following modules.
 
 import numpy as np
 
@@ -71,6 +72,8 @@ from sklearn.ensemble import RandomForestRegressor
 8: Perform hyperparamater tuning
 
 9: Make predictions and calculate accuracy
+
+10: Done!!
 
 ## Contributors :sparkles:
 <!-- readme: contributors -start --> 
