@@ -6,12 +6,40 @@
 </div>
 
 ## Purpose of the project :
+Have you ever asked yourself, how are diamonds priced? Well, this article talks about the diamonds price prediction based on their cut, colour, clarity & other attributes and it also covers the building a simple linear regression model.
+
+Diamond prices can vary hugely depending on a diamond’s shape, cut quality, clarity and color. For example, the cost of a one carat diamond can range from just $1,500 to more than $16,000 for an extremely well cut, high quality diamond, while a two carat diamond could cost as little as $6,000 or as much as $80,000 based on its shape, cut, clarity and color grades.
+
+As you can see, this is a huge range, with some diamonds costing as much as 10 times higher than other diamonds of the same carat weight.
+
+Diamond prices depend on such a wide range of factors that’s very difficult to give an accurate price estimate for “diamonds” as a whole. The biggest of these are the four Cs, which we briefly mentioned earlier — cut quality, clarity, color and carat weight. 
 
 ## Prerequisites :
+
+Jupyter NoteBook/Kaggle Notebook, A Diamond Price Dataset, GPU (Recommended)
+
 
 ## Setup :
 
 ## Working of this Python project is as follows :
+
+1: Load the dataset
+
+2: Perform the exploratory data analysis (EDA)
+
+3: Prepare the dataset for training
+
+4: Create a linear regression model
+
+5: Train the model to fit the data
+
+6: Make predictions using the trained model 
+
+7: Create Random forest regressor 
+
+8: Perform hyperparamater tuning
+
+9: Make predictions and calculate accuracy
 
 ## Contributors :sparkles:
 <!-- readme: contributors -start --> 
