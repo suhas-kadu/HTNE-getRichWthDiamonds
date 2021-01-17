@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Get Rich with Diamonds :diamonds:</h1>
 
-[![Python Version](https://img.shields.io/badge/python-3.6-blue.svg?logo=python)](https://www.python.org/downloads/release/python-360/)
+[![Python Version](https://img.shields.io/badge/python-3.8-blue.svg?logo=python)](https://www.python.org/downloads/release/python-360/)
 
 </div>
 
@@ -16,10 +16,12 @@ Diamond prices depend on such a wide range of factors that’s very difficult to
 
 ## Prerequisites :
 
-Jupyter NoteBook/Kaggle Notebook, A Diamond Price Dataset, GPU (Recommended)
+Jupyter NoteBook/Kaggle Notebook, A Diamond Price Dataset(I have considered the classic Diamonds dataset which contains the prices and other attributes of almost 54,000 diamonds and this dataset is hosted on Kaggle. The dataset contains 53940 rows and 10 variables. Before jumping into building the model, let’s have a look into the variables & their definitions.), GPU (Recommended)
 
 
 ## Setup :
+
+
 
 ## Working of this Python project is as follows :
 
