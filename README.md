@@ -6,7 +6,12 @@
 
 </div>
 
-[DEMO](https://youtu.be/GeMvT9ClAf4)
+# [DEMO](https://youtu.be/GeMvT9ClAf4)
+
+|![1](Img/1.jpg)|![2](Img/3.jpg)|![3](Img/4.jpg)| 
+|---|---|---|
+|![4](Img/2.jpg)|![5]()|![6]()| 
+|---|---|---|
 
 ## Purpose of the project :
 Have you ever asked yourself, how are diamonds priced? Well, this article talks about the diamonds price prediction based on their cut, colour, clarity & other attributes and it also covers the building a simple linear regression model.
