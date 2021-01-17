@@ -2,8 +2,11 @@
 <h1 align="center">Get Rich with Diamonds :diamonds:</h1>
 
 [![Python Version](https://img.shields.io/badge/python-3.8-blue.svg?logo=python)](https://www.python.org/downloads/release/python-360/)
+[![Github](https://img.shields.io/github/license/suhas-kadu/HTNE-getRichWthDiamonds?color=blue&logo=github)](https://github.com/suhas-kadu/HTNE-getRichWthDiamonds/blob/main/LICENSE)
 
 </div>
+
+[DEMO](https://youtu.be/GeMvT9ClAf4)
 
 ## Purpose of the project :
 Have you ever asked yourself, how are diamonds priced? Well, this article talks about the diamonds price prediction based on their cut, colour, clarity & other attributes and it also covers the building a simple linear regression model.
@@ -20,8 +23,29 @@ Jupyter NoteBook/Kaggle Notebook, A Diamond Price Dataset(I have considered the 
 
 
 ## Setup :
+Install all the required modules with pip installer:
 
+import numpy as np
 
+import pandas as pd 
+
+import matplotlib.pyplot as plt
+
+import seaborn as sns 
+
+from sklearn.preprocessing import LabelEncoder
+
+import statsmodels.api as st
+
+from statsmodels.stats.outliers_influence import variance_inflation_factor
+
+from sklearn.model_selection import train_test_split
+
+from sklearn.linear_model import LinearRegression
+
+from sklearn.metrics import r2_score,mean_squared_error
+
+from sklearn.ensemble import RandomForestRegressor
 
 ## Working of this Python project is as follows :
 
